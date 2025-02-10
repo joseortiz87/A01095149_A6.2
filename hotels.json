@@ -1,0 +1,14 @@
+[
+    {
+        "hotel_id": "H1",
+        "name": "Updated Hacienda",
+        "location": "PUE",
+        "rooms_available": 29
+    },
+    {
+        "hotel_id": "H1",
+        "name": "Hacienda Santo Cristo",
+        "location": "PUE",
+        "rooms_available": 30
+    }
+]

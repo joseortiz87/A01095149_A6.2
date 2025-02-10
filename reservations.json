@@ -1,0 +1,194 @@
+[
+    {
+        "reservation_id": "R3",
+        "customer_id": "C3",
+        "hotel_id": "H3",
+        "start_date": "2025-02-20",
+        "end_date": "2025-02-25",
+        "status": "Active"
+    },
+    {
+        "reservation_id": "R3",
+        "customer_id": "C3",
+        "hotel_id": "H3",
+        "start_date": "2025-02-20",
+        "end_date": "2025-02-25",
+        "status": "Active"
+    },
+    {
+        "reservation_id": "R1",
+        "customer_id": "C1",
+        "hotel_id": "H1",
+        "start_date": "2025-02-10",
+        "end_date": "2025-02-15",
+        "status": "Canceled"
+    },
+    {
+        "reservation_id": "R3",
+        "customer_id": "C3",
+        "hotel_id": "H3",
+        "start_date": "2025-02-20",
+        "end_date": "2025-02-25",
+        "status": "Active"
+    },
+    {
+        "reservation_id": "R1",
+        "customer_id": "C1",
+        "hotel_id": "H1",
+        "start_date": "2025-02-10",
+        "end_date": "2025-02-15",
+        "status": "Canceled"
+    },
+    {
+        "reservation_id": "R3",
+        "customer_id": "C3",
+        "hotel_id": "H3",
+        "start_date": "2025-02-20",
+        "end_date": "2025-02-25",
+        "status": "Active"
+    },
+    {
+        "reservation_id": "R1",
+        "customer_id": "C1",
+        "hotel_id": "H1",
+        "start_date": "2025-02-10",
+        "end_date": "2025-02-15",
+        "status": "Canceled"
+    },
+    {
+        "reservation_id": "R1",
+        "customer_id": "C1",
+        "hotel_id": "H1",
+        "start_date": "2025-02-10",
+        "end_date": "2025-02-15",
+        "status": "Canceled"
+    },
+    {
+        "reservation_id": "R1",
+        "customer_id": "C1",
+        "hotel_id": "H1",
+        "start_date": "2025-02-10",
+        "end_date": "2025-02-15",
+        "status": "Canceled"
+    },
+    {
+        "reservation_id": "R4",
+        "customer_id": "C999",
+        "hotel_id": "H3",
+        "start_date": "2025-02-20",
+        "end_date": "2025-02-25",
+        "status": "Active"
+    },
+    {
+        "reservation_id": "R5",
+        "customer_id": "C1",
+        "hotel_id": "H999",
+        "start_date": "2025-02-20",
+        "end_date": "2025-02-25",
+        "status": "Active"
+    },
+    {
+        "reservation_id": "R1",
+        "customer_id": "C1",
+        "hotel_id": "H1",
+        "start_date": "2025-02-10",
+        "end_date": "2025-02-15",
+        "status": "Canceled"
+    },
+    {
+        "reservation_id": "R4",
+        "customer_id": "C999",
+        "hotel_id": "H3",
+        "start_date": "2025-02-20",
+        "end_date": "2025-02-25",
+        "status": "Active"
+    },
+    {
+        "reservation_id": "R5",
+        "customer_id": "C1",
+        "hotel_id": "H999",
+        "start_date": "2025-02-20",
+        "end_date": "2025-02-25",
+        "status": "Active"
+    },
+    {
+        "reservation_id": "R1",
+        "customer_id": "C1",
+        "hotel_id": "H1",
+        "start_date": "2025-02-10",
+        "end_date": "2025-02-15",
+        "status": "Canceled"
+    },
+    {
+        "reservation_id": "R4",
+        "customer_id": "C999",
+        "hotel_id": "H3",
+        "start_date": "2025-02-20",
+        "end_date": "2025-02-25",
+        "status": "Active"
+    },
+    {
+        "reservation_id": "R5",
+        "customer_id": "C1",
+        "hotel_id": "H999",
+        "start_date": "2025-02-20",
+        "end_date": "2025-02-25",
+        "status": "Active"
+    },
+    {
+        "reservation_id": "R1",
+        "customer_id": "C1",
+        "hotel_id": "H1",
+        "start_date": "2025-02-10",
+        "end_date": "2025-02-15",
+        "status": "Canceled"
+    },
+    {
+        "reservation_id": "R1",
+        "customer_id": "C1",
+        "hotel_id": "H1",
+        "start_date": "2025-02-10",
+        "end_date": "2025-02-15",
+        "status": "Canceled"
+    },
+    {
+        "reservation_id": "R1",
+        "customer_id": "C1",
+        "hotel_id": "H1",
+        "start_date": "2025-02-10",
+        "end_date": "2025-02-15",
+        "status": "Canceled"
+    },
+    {
+        "reservation_id": "R1",
+        "customer_id": "C1",
+        "hotel_id": "H1",
+        "start_date": "2025-02-10",
+        "end_date": "2025-02-15",
+        "status": "Canceled"
+    },
+    {
+        "reservation_id": "R1",
+        "customer_id": "C1",
+        "hotel_id": "H1",
+        "start_date": "2025-02-10",
+        "end_date": "2025-02-15",
+        "status": "Canceled"
+    },
+    {
+        "reservation_id": "R1",
+        "customer_id": "C1",
+        "hotel_id": "H1",
+        "start_date": "2025-02-10",
+        "end_date": "2025-02-15",
+        "status": "Canceled"
+    },
+    {
+        "reservation_id": "R1",
+        "customer_id": "C1",
+        "hotel_id": "H1",
+        "start_date": "2025-02-10",
+        "end_date": "2025-02-15",
+        "status": "Canceled"
+    }
+]

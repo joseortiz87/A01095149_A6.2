@@ -1,0 +1,72 @@
+[
+    {
+        "customer_id": "C1",
+        "name": "Jose Ortiz",
+        "email": "new_email@example.com"
+    },
+    {
+        "customer_id": "C1",
+        "name": "Jose Ortiz",
+        "email": "new_email@example.com"
+    },
+    {
+        "customer_id": "C1",
+        "name": "Jose Ortiz",
+        "email": "new_email@example.com"
+    },
+    {
+        "customer_id": "C4",
+        "name": "Invalid User",
+        "email": "invalid-email"
+    },
+    {
+        "customer_id": "C1",
+        "name": "Jose Ortiz",
+        "email": "new_email@example.com"
+    },
+    {
+        "customer_id": "C1",
+        "name": "Jose Ortiz",
+        "email": "new_email@example.com"
+    },
+    {
+        "customer_id": "C1",
+        "name": "Jose Ortiz",
+        "email": "new_email@example.com"
+    },
+    {
+        "customer_id": "C1",
+        "name": "Jose Ortiz",
+        "email": "new_email@example.com"
+    },
+    {
+        "customer_id": "C1",
+        "name": "Jose Ortiz",
+        "email": "new_email@example.com"
+    },
+    {
+        "customer_id": "C1",
+        "name": "Jose Ortiz",
+        "email": "new_email@example.com"
+    },
+    {
+        "customer_id": "C1",
+        "name": "Jose Ortiz",
+        "email": "new_email@example.com"
+    },
+    {
+        "customer_id": "C1",
+        "name": "Jose Ortiz",
+        "email": "new_email@example.com"
+    },
+    {
+        "customer_id": "C1",
+        "name": "Jose Ortiz",
+        "email": "new_email@example.com"
+    },
+    {
+        "customer_id": "C1",
+        "name": "Jose Ortiz",
+        "email": "new_email@example.com"
+    }
+]
